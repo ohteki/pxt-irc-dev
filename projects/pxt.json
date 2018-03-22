@@ -1,13 +1,22 @@
 {
-    "name": "題名未設定",
+    "name": "irc-dev",
+    "version": "0.0.0",
+    "description": "ir control",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "radio": "*"
     },
-    "description": "",
     "files": [
-        "main.blocks",
+        "README.md",
+        "MicroBit.h",
+        "irc.cpp",
         "main.ts",
-        "README.md"
-    ]
+        "enums.d.ts",
+        "shims.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
 }
