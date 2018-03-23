@@ -8,6 +8,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "MicroBit.h",
+        "irc.cpp",
+        "irc.ts"
     ]
 }
