@@ -2,7 +2,8 @@
 namespace IRC {
 
     //% blockId=init block="test"
-    export function init(): void {
+    //% shim=IRC:init
+    export function test(): void {
 		
 	}
 
